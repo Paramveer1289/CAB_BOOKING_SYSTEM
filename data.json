@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "xj1mx8cbl",
+      "createdAt": "2026-04-23T12:59:05.725Z",
+      "role": "ADMIN",
+      "name": "Paramveer Singh",
+      "email": "param@gmail.com",
+      "password": "$2b$10$prrLCTBtHou6cDaKcoyCO.Fmn7WiWZQ7gXDQ5EJY9BbWzkdEJcDyu"
+    }
+  ],
+  "drivers": [],
+  "routes": [],
+  "bookings": []
+}
